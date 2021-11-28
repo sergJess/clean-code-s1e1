@@ -71,7 +71,7 @@ button:hover {
   margin: 0;
   text-transform: uppercase;
 }
-input[type="text"] {
+.task-input {
   margin: 0;
   font-size: 18px;
   line-height: 18px;
@@ -83,7 +83,7 @@ input[type="text"] {
   font-family: "Lato", sans-serif;
   color: #888;
 }
-input[type="text"]:focus {
+.task-input:focus {
   color: #333;
 }
 
