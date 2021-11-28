@@ -105,14 +105,11 @@ li {
   justify-content: space-between;
   align-items: center;
 }
-li > * {
-  vertical-align: middle;
-}
 
 .checkbox {
   margin: 0 10px;
 }
-li > label {
+.task-name {
   padding-left: 10px;
   box-sizing: border-box;
   font-size: 18px;
