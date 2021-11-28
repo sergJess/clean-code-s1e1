@@ -97,7 +97,7 @@ button:hover {
 }
 
 /* Task list */
-li {
+.task-list {
   overflow: hidden;
   padding: 20px 0;
   border-bottom: 1px solid #eee;
