@@ -101,7 +101,7 @@ button:hover {
     justify-content: space-between;
     align-items: center;
 }
-li > * {
+.task-list > * {
     vertical-align: middle;
 }
 
