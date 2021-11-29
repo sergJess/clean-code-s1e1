@@ -115,6 +115,7 @@ li > * {
     width: 226px;
 }
 .task-list__input {
+    display: none;
     width: 226px;
 }
 .delete__img {
@@ -133,9 +134,7 @@ li > * {
 }
 
 /* Edit Task */
-ul li input[type=text] {
-    display: none;
-}
+
 
 .edit-mode .task-list__input {
     display: inline-block;
