@@ -134,7 +134,7 @@ li > * {
 
 /* Edit Task */
 ul li input[type=text] {
-    display: none
+    display: none;
 }
 
 .edit-mode .task-list__input {
